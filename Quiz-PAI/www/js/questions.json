@@ -1,0 +1,52 @@
+{
+	"1" : {
+		"question": "Setelah dibangkitkan dari dalam kubur, manusia berbondong-bondong menuju padang mahsyar untuk mempertanggungjawabkan perbuatannya.",
+		"answer": true
+	},
+
+	"2" : {
+		"question": "Alam penantian menunggu datangnya hari kiamat disebut alam Barzakh.",
+		"answer": true
+	},
+
+	"3" : {
+		"question": "Dibangkitkannya nyawa manusia dari alam kubur ditandai dengan ditiupnya sangkakala oleh Malaikat Malik.",
+		"answer": false
+	},
+
+	"4" : {
+		"question": "yaumulmizan adalah Penimbangan amal manusia untuk mengetahui lebih berat amal baik atau amal buruk.",
+		"answer": true
+	},
+
+	"5" : {
+		"question": "Cinta dunia harta secara berlebihan merupakan perilaku orang yang beriman kepada hari akhir .",
+		"answer": false
+	},
+
+	"6" : {
+		"question": "Hari Akhir disebut juga dengan Hari Kiamat.",
+		"answer": true
+	},
+
+	"7" : {
+		"question": "pada hari kiamat, seluruh amal perbuatan manusia akan dihitung. Oleh karena itu, hari kiamat disebut juga dengan hari Yaumul Hisab.",
+		"answer": true
+	},
+
+	"8" : {
+		"question": "Kiamat Kubra merupakan Peristiwa datangnya kematian bagi semua makhluk termasuk manusia yang bersifat lokal dan individu.",
+		"answer": false
+	},
+
+	"9" : {
+		"question": "Hari ketika manusia akan menerima balasan Allah SWT disebut dengan Yaumul Jaza'.",
+		"answer": true
+	},
+
+	"10" : {
+		"question": "Yaumul Hasyr yaitu Hari berkumpulnya manusia setelah dibangkitkan dari kuburnya masing-masing.",
+		"answer": true
+	}
+
+}
